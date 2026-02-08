@@ -12,13 +12,17 @@ Learn about the next evolution of Lido staking with **stVaults** — user-define
 
 :::info **Production Lido Protocol Deployment**
 
-This page lists production contract addresses on Mainnets — including Ethereum and other networks, where the protocol and its parts/extensions are deployed.
+This page lists production contract addresses on mainnets, including Ethereum and other networks where the protocol and its components are deployed.
 
 **Deployment Information:**
 
-- ⚓ Lido protocol version: [**`v3.0.0`**](https://github.com/lidofinance/core/releases/tag/v3.0.0)
-  - Lido V3 version line features stVaults architecture with overcollateralized stETH minting — see [Technical Paper](/lido-v3-whitepaper)
+- ⚓ Lido protocol version: [**`v3.0.1`**](https://github.com/lidofinance/core/releases/tag/v3.0.1)
+- 🌐 Network: Ethereum Mainnet (Chain ID: `1`)
 - ✅ Status: Active and maintained
+
+**Key Resources on Lido V3:**
+
+- 🔌 [stVaults Documentation Center](/run-on-lido/stvaults/)
 
 :::
 
@@ -87,7 +91,6 @@ This page lists production contract addresses on Mainnets — including Ethereum
 - Aragon PM: [`0x0cb113890b04b49455dfe06554e2d784598a29c9`](https://etherscan.io/address/0x0cb113890b04b49455dfe06554e2d784598a29c9) (proxy)
 - Voting Repo: [`0x4ee3118e3858e8d7164a634825bfe0f73d99c792`](https://etherscan.io/address/0x4ee3118e3858e8d7164a634825bfe0f73d99c792) (proxy)
 - Lido App Repo: [`0xF5Dc67E54FC96F993CD06073f71ca732C1E654B1`](https://etherscan.io/address/0xF5Dc67E54FC96F993CD06073f71ca732C1E654B1) (proxy)
-- Lido Oracle (Legacy Oracle) Repo: [`0xF9339DE629973c60c4d2b76749c81E6F40960E3A`](https://etherscan.io/address/0xF9339DE629973c60c4d2b76749c81E6F40960E3A) (proxy)
 - Node Operators Registry Repo: [`0x0D97E876ad14DB2b183CFeEB8aa1A5C788eB1831`](https://etherscan.io/address/0x0D97E876ad14DB2b183CFeEB8aa1A5C788eB1831) (proxy)
 - Simple DVT Repo: [`0x2325b0a607808dE42D918DB07F925FFcCfBb2968`](https://etherscan.io/address/0x2325b0a607808dE42D918DB07F925FFcCfBb2968) (proxy)
 - Insurance Fund: [`0x8B3f33234ABD88493c0Cd28De33D583B70beDe35`](https://etherscan.io/address/0x8B3f33234ABD88493c0Cd28De33D583B70beDe35)
@@ -124,6 +127,10 @@ This page lists production contract addresses on Mainnets — including Ethereum
 - DataBus on Base: [`0x37De961D6bb5865867aDd416be07189D2Dd960e6`](https://basescan.org/address/0x37De961D6bb5865867aDd416be07189D2Dd960e6)
 - DataBus on Optimism: [`0x37De961D6bb5865867aDd416be07189D2Dd960e6`](https://optimistic.etherscan.io/address/0x37De961D6bb5865867aDd416be07189D2Dd960e6)
 - DataBus on Polygon PoS: [`0x37De961D6bb5865867aDd416be07189D2Dd960e6`](https://polygonscan.com/address/0x37De961D6bb5865867aDd416be07189D2Dd960e6)
+
+## 🔄 Post Token Rebase Receiver {#post-token-rebase-receiver}
+
+- Token Rate Notifier: [`0x25e35855783bec3E49355a29e110f02Ed8b05ba9`](https://etherscan.io/address/0x25e35855783bec3E49355a29e110f02Ed8b05ba9)
 
 ## 🧩 Staking Modules {#staking-modules}
 
